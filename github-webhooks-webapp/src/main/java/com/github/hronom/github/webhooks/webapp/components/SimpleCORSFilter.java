@@ -1,4 +1,4 @@
-package com.github.hronom.github.webhooks.webapp;
+package com.github.hronom.github.webhooks.webapp.components;
 
 import org.springframework.stereotype.Component;
 

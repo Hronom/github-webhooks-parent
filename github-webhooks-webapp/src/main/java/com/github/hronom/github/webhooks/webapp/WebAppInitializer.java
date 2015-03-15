@@ -16,6 +16,7 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
 
+import com.github.hronom.github.webhooks.webapp.components.SimpleCORSFilter;
 import com.github.hronom.github.webhooks.webapp.config.WebAppConfig;
 
 public class WebAppInitializer implements WebApplicationInitializer {
